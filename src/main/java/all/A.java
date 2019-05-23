@@ -1,6 +1,7 @@
-package myPack;
+package all;
 
-/** binary rotation */
+/** binary rotation 
+ * https://stackoverflow.com/questions/25847191/new-to-java-trying-to-understand-checker-1-val*/
 public class A {
 	public static boolean isUniqueChars(String str) {
 		int checker = 0;
